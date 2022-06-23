@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container{
+    width: 85%;
+    margin: 10px auto;
+}
+
+.empty{
+    width: 90%;
+    height: 450px;
+    margin: 10px auto;
+    background-color: rgb(241, 241, 241);
+}
+
+.quote{
+    text-align: center;
+    font-size: 1.5em;
+    margin: 20px;
+    font-family: 'Pacifico', cursive;
+}
+
+.timeline{
+    margin: 60px;
+    position: relative;
+    top: 30px;
+    right: 200px;
+    font-size: 50px;
+    opacity: 0.1;
+}
+
+.content{
+    display: flex;
+    font-family: 'Dosis' , sans-serif;
+}
+
+.left{
+    margin-right: 20px;
+    width: 75%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.event{
+    display: flex;
+    font-size: 15px;
+}
+
+.date{
+    padding: 10px 0;
+    text-align: center;
+    width: 15%;
+}
+
+.details{
+    width: 85%;
+    padding: 10px ;
+    text-align: left;
+    background-color: #f9f9f9;
+}
+
+hr{
+    opacity: 0.2;
+}
+
+
+.right{
+    margin-left: 20px;
+    width: 25%;
+}
+
+.nutshell{
+    font-family: 'Lato' , sans-serif;
+    font-weight:bold;
+    font-size: 26px;
+}
+
+.img{
+    width: 95%;
+    height: 250px;
+    margin: 10px auto;
+    margin-bottom: 0;
+}
+
+.what{
+    width: 20%;
+    padding-right: 5px;
+    text-align: left;
+}
+.sum{
+    width: 80%;
+}
+
+.resume li{
+    margin: 5px 0;
+}
+
+.text{
+    background-color: rgb(241, 241, 241);
+    margin: 50px;
+    padding: 30px;
+}
+
+h3{
+    margin: 10px;
+}
